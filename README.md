@@ -1,6 +1,7 @@
 # Auto Netplan - Automatic NetWork Configuration
 - Programa por [Nisamov](https://github.com/Nisamov)
-Programa diseñado para automatizar la configuración del software Netplan.
+Programa diseñado para automatizar la configuración del sof
+ware Netplan.
 
 Auto Netplan es una herramienta diseñada para automatizar la configuración de redes en sistemas GNU/Linux utilizando Netplan. Simplifica el proceso de configuración y evita problemas comunes como errores de sintaxis o la introducción de configuraciones incorrectas.
 
